@@ -1,0 +1,50 @@
+[
+  {
+    "name": "lesion",
+    "image": "samples/lesion.png",
+    "truth": "samples/lesion_truth.png",
+    "reference": "reference/lesion.npz",
+    "source_id": "ISIC_0006914",
+    "size": [
+      768,
+      512
+    ],
+    "desktop_accuracy": {
+      "dice": 0.9060045542553062,
+      "iou": 0.8281611754229742
+    },
+    "note": "Resized board smoke test; not an independent model evaluation sample"
+  },
+  {
+    "name": "previous_failure",
+    "image": "samples/previous_failure.png",
+    "truth": "samples/previous_failure_truth.png",
+    "reference": "reference/previous_failure.npz",
+    "source_id": "ISIC_0001186",
+    "size": [
+      768,
+      510
+    ],
+    "desktop_accuracy": {
+      "dice": 0.9457821182017174,
+      "iou": 0.89714103178406
+    },
+    "note": "Resized board smoke test; not an independent model evaluation sample"
+  },
+  {
+    "name": "portrait",
+    "image": "samples/portrait.png",
+    "truth": "samples/portrait_truth.png",
+    "reference": "reference/portrait.npz",
+    "source_id": "ISIC_0006914",
+    "size": [
+      512,
+      768
+    ],
+    "desktop_accuracy": {
+      "dice": 0.9063209390970781,
+      "iou": 0.8286900348524874
+    },
+    "note": "Resized board smoke test; not an independent model evaluation sample"
+  }
+]

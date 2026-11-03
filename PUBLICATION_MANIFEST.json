@@ -1,0 +1,1281 @@
+{
+  "source_snapshot": "2026-11-03",
+  "files": [
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/artifacts/models/isic2018/arena.bin",
+      "bytes": 5008640,
+      "sha256": "69b9849e42dbc14e964baba1fea08548c9b3a43c14ac20b00cc1a699939fbad2"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/artifacts/models/isic2018/fp32.npz",
+      "bytes": 1956714,
+      "sha256": "1a425cf5ef5d295eb49250286a491c6b1cd76924790a7f6fd08bdf5fc4e12844"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/artifacts/models/isic2018/model.json",
+      "bytes": 23961,
+      "sha256": "ba9972638fc5569ade49c76d460bc22e9f5df5dd78b2c39f69dd719b42976aca"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/artifacts/models/isic2018/model_budget.json",
+      "bytes": 185,
+      "sha256": "b7c1d1e0b5ead08b1abc4ffc42dc6978ad50c726376056b3c0c1ea43e1d4c75a"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/artifacts/models/isic2018/params.bin",
+      "bytes": 3076,
+      "sha256": "a82ed32001c9149857c8784e14b9bb0868ad590b8115332a80277647735b71f4"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/artifacts/models/isic2018/policy.json",
+      "bytes": 534,
+      "sha256": "30d79ba83235eae39676ee80aa7e6f83609765196c8a080bd62a33ed11c11b7d"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/board_env.sh",
+      "bytes": 370,
+      "sha256": "1652250729380b89ed05ab435269402927317e52d199983fb41f1dfc49d01a62"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/board_test.py",
+      "bytes": 8374,
+      "sha256": "62681f785682d23c4c615d8ddf8b6db2ca5a4db638f812ec8896555c1fdd171b"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/cases.json",
+      "bytes": 1312,
+      "sha256": "9d338ee66c278f2c6b46de21f581395bec9cf5a95b09a7872ebd13d8e8d02925"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/hardware/hardware_manifest.json",
+      "bytes": 3994,
+      "sha256": "1aaa426edd3f829d23dcc650d69563fc089e14755add720ec2aac180e05daa64"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/hardware/lesion.bit",
+      "bytes": 4045690,
+      "sha256": "abe0c39aea79af7e30de94120f861b706f094f8cc37a7e821397f80b8333917a"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/hardware/lesion.hwh",
+      "bytes": 947026,
+      "sha256": "33f57cea6b975efa9793dbb12ac77fdba0020cc180a9c478d1b4dc293806640e"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/kit_manifest.json",
+      "bytes": 3895,
+      "sha256": "e77c9cba970534f1b04b7d2c07f355458f21daed611fa533d7f5c85555c528bb"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/reference/lesion.npz",
+      "bytes": 371191,
+      "sha256": "b372b2f92078b2e2c695e620201ac68bfaa7ef9d7f4fe753a1099792cbd68562"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/reference/portrait.npz",
+      "bytes": 401231,
+      "sha256": "b5eb2e9535863d118a4a6535b23f578a47874ec2054ca282a40497b657d4cc8b"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/reference/previous_failure.npz",
+      "bytes": 341746,
+      "sha256": "19abc651e175d28378e4f4516c0150854d126b3a644606b8b45937d44b84c449"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/samples/lesion.png",
+      "bytes": 544705,
+      "sha256": "ae8f517e554f0254ddb1e66cf0400d7dbc4bfa551b8df7f4099e21b6972605ac"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/samples/lesion_truth.png",
+      "bytes": 1482,
+      "sha256": "10f3cc70fcb87fada30020f3abcd5aec5a35ddcae62c6a8e38ddeec0c2346f2b"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/samples/portrait.png",
+      "bytes": 539650,
+      "sha256": "ddc451f6b1f3c162e0dc9dbfa0c66048d947d22f171c55c0012695b6f339340a"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/samples/portrait_truth.png",
+      "bytes": 1786,
+      "sha256": "2560e89a2ca8564b15d8c326c4d2385c93d38b24e860d2ebe4a553e00af598fa"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/samples/previous_failure.png",
+      "bytes": 450236,
+      "sha256": "c7644b25d4d28ee6ed856e1e0232759c7288dedfda4f79505029ebcff23b0681"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/samples/previous_failure_truth.png",
+      "bytes": 1217,
+      "sha256": "299428f79462741bc1faecdb06a31e7e76cbdd6c2cf478f3afdb5028a394b981"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/__init__.py",
+      "bytes": 101,
+      "sha256": "6a02b79332be303bc30e473c8aeb498c8dc6bb89e02c09874048e1f087da9504"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/__pycache__/__init__.cpython-313.pyc",
+      "bytes": 340,
+      "sha256": "4f8563db9487a6ec70967f48ff6ff60a3cf57e16041c15686172c402dc88bf99"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/__pycache__/backends.cpython-313.pyc",
+      "bytes": 14435,
+      "sha256": "74ba4dac1bcb77bc50710bd61b0ff2dc0040df2f1ec8335b3a55a404b38f9766"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/__pycache__/common.cpython-313.pyc",
+      "bytes": 3169,
+      "sha256": "c6e4138584de23afe0266d969f989b7fe9191329a7afb49efd171beeb50af5cf"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/__pycache__/imaging.cpython-313.pyc",
+      "bytes": 16967,
+      "sha256": "041722f7e2ec054eb7188a2cdd3493b72690b3e191de7d330a9972ed4b06578e"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/__pycache__/pipeline.cpython-313.pyc",
+      "bytes": 6177,
+      "sha256": "60c45b182933395112151e8d8d37a22c81e73245585937e41727e131ede7385c"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/__pycache__/quantization.cpython-313.pyc",
+      "bytes": 11590,
+      "sha256": "5d8924e07df0592ef4092936ab3194474952b913f67a612acac266d876df63b0"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/__pycache__/ui.cpython-313.pyc",
+      "bytes": 13106,
+      "sha256": "89f1a7c76da1c76219ce27f9947f13a808ba775fdec6f6bb56bfc06e1e8daa1d"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/app.py",
+      "bytes": 10093,
+      "sha256": "19868be4b87bda2ecfe3d30d1c18f3a621464e1f83b12d2305b5d58bcb239487"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/backends.py",
+      "bytes": 6627,
+      "sha256": "33be00f9124c5a0c42f10af70b9796ea1e1940e18ce2e7afe9fc387648281fa0"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/common.py",
+      "bytes": 1199,
+      "sha256": "953c3976301f6b2fe90cbccb816ff8319421402e2ca6c182068717fcb5a46359"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/dataset.py",
+      "bytes": 3951,
+      "sha256": "8eb77782ee3aa70d9bebef29a0e653cda782d6e65d66335e851de46cf2fa2a68"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/evaluate.py",
+      "bytes": 6281,
+      "sha256": "284a94366380221e67ea64ab6013b7f20bdfcae734e85f2e45dc7805fe7f1be3"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/export.py",
+      "bytes": 6455,
+      "sha256": "01ffad3403605c354b16d3effbf3b532bc7e81506145122c8d94ae5fa9d1fb7a"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/float_backend.py",
+      "bytes": 1919,
+      "sha256": "f8f66ddcc1c6699e09d3e7e4b3987acfb62de5f1d9883a90a7efb2c3c22a7a7c"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/imaging.py",
+      "bytes": 7616,
+      "sha256": "cb1a5f1031a43dcf33ded2f82aa3b280f5557bc0109d62a63acc29576faf09b6"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/model.py",
+      "bytes": 2484,
+      "sha256": "7c082c7b1f4f7c7b70e9aece403e1b6fafa0b9f47be17fae603049cd35ca5c77"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/pipeline.py",
+      "bytes": 3497,
+      "sha256": "c345d376e91d58ef5e5016d312a5cd364c14f797a751f3d65d91a3ee1fd3274d"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/quantization.py",
+      "bytes": 5508,
+      "sha256": "5e5b7646cc65c6638805d86535117ea7d5e308b6cdeeaabd0fd48a468a47f7cd"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/train.py",
+      "bytes": 4806,
+      "sha256": "115fa23c1f32cbe462f693ce7026235fc27b4f99d57874ac144252f1f1e51ecc"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/software/lesion_fpga/ui.py",
+      "bytes": 6900,
+      "sha256": "890aab9ae318cf01be1c89af40c17ba7e46455484dcde845cd06607f12ab8035"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026/开始前必读.md",
+      "bytes": 6516,
+      "sha256": "7bbbba74dbb0e976d60bed81dc05c85e61e1354ff7322bb3b32cca6d56051c02"
+    },
+    {
+      "path": "artifacts/board_start/pynq_start_20261026.sha256",
+      "bytes": 91,
+      "sha256": "654f05e75eb6f38ff88ad1d703d4020de737d83a35a2693963e9293a3dbd2611"
+    },
+    {
+      "path": "artifacts/board_start/results/pynq_result_20250504_013843_799015.zip",
+      "bytes": 820785,
+      "sha256": "7a2068fde96bf94f4fa1717ddc1fcce6b9c260edd6ba922604796411da6e32fd"
+    },
+    {
+      "path": "artifacts/data_manifest.json",
+      "bytes": 810948,
+      "sha256": "7664f21bd39aefbc9429140cc91da2535216a09efee8d5fc8bd3b511bdc525b6"
+    },
+    {
+      "path": "artifacts/delivery_status.json",
+      "bytes": 2583,
+      "sha256": "a3b61ab1199e27de7aa6f8bd1e1aaefb9b7b4c778cf3a211b138c152f5ddf773"
+    },
+    {
+      "path": "artifacts/evaluation_test.json",
+      "bytes": 127772,
+      "sha256": "0561c9200fa814ce1963265aceed201999e947f7725e2aa211665ceb79cdc5a5"
+    },
+    {
+      "path": "artifacts/evaluation_validation.json",
+      "bytes": 61443,
+      "sha256": "e50a1591b731fb781ce82332ceee860dc4ee15209e08c8978ba6fae4ae04d935"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/bus_skew.rpt",
+      "bytes": 560964,
+      "sha256": "f3828ad5f835483e3f8b1e85dde495927fab2487e435d5f31b37cc28815238be"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/cdc.rpt",
+      "bytes": 3354,
+      "sha256": "946648f93768ff0da5d0b65caf3b6dc2ec8b6d9ad0a2ec794a67b76c04fbf431"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/drc.rpt",
+      "bytes": 133257,
+      "sha256": "c35afcbae081c641257af82b748d3e770bf8dcecdd8b9a8acf296ea83837e2a7"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/hardware_manifest.json",
+      "bytes": 3994,
+      "sha256": "1aaa426edd3f829d23dcc650d69563fc089e14755add720ec2aac180e05daa64"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/ip_status.rpt",
+      "bytes": 25799,
+      "sha256": "ae9cd79b4e471badfd0fb08f2759ae6e70ba9ce9dfd746a7a378459c1a2f1641"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/lesion.bit",
+      "bytes": 4045690,
+      "sha256": "abe0c39aea79af7e30de94120f861b706f094f8cc37a7e821397f80b8333917a"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/lesion.hwh",
+      "bytes": 947026,
+      "sha256": "33f57cea6b975efa9793dbb12ac77fdba0020cc180a9c478d1b4dc293806640e"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/methodology.rpt",
+      "bytes": 43258,
+      "sha256": "b9f55a69a85e9c90035e50c4deeb173b794dd0cb435a682d4e1898f0d37300b1"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/timing_summary.rpt",
+      "bytes": 195088,
+      "sha256": "c21ef3a3e71956f4d95c680d9f277f573ee194e43d455fbea1608ae3ff19fb25"
+    },
+    {
+      "path": "artifacts/hardware/hdmi_full/utilization.rpt",
+      "bytes": 15677,
+      "sha256": "cd5214f3befb5523290b5b0946357b991ad55c2d4a0d652afe4e42c1dfc9bb67"
+    },
+    {
+      "path": "artifacts/isic2018/checkpoints/best.pt",
+      "bytes": 5882063,
+      "sha256": "e71034b765f1de21001fa4b66ba8191022647107523db1360a79021fb4705f14"
+    },
+    {
+      "path": "artifacts/isic2018/delivery_checks.json",
+      "bytes": 171,
+      "sha256": "3ab97ac13a3b5f89d9792a604fa051c45e8db09b1ab97a744a7336d5b094cc8e"
+    },
+    {
+      "path": "artifacts/isic2018/environment.txt",
+      "bytes": 340,
+      "sha256": "4696050f56caacb789c677860d78dca325b7b8ee11ab77ab903db1f13dd945c6"
+    },
+    {
+      "path": "artifacts/isic2018/evaluation_test_int8.json",
+      "bytes": 90528,
+      "sha256": "86429647b662fc18191ae0dad6487b88338ea95f08c01a7ff84c33fb0d52f0ce"
+    },
+    {
+      "path": "artifacts/isic2018/evaluation_validation_int8.json",
+      "bytes": 95695,
+      "sha256": "cd8951ec0143406e3dbd0f5efe0cac3e9385072cb1201ac68b405c410ce7f513"
+    },
+    {
+      "path": "artifacts/isic2018/export_verification.json",
+      "bytes": 2496,
+      "sha256": "900b10764c7f62ed273270f8476c2c2d0aa446294a67220a9aa5c976ba241e4f"
+    },
+    {
+      "path": "artifacts/isic2018/failure_before_after.png",
+      "bytes": 85197,
+      "sha256": "28f696b12e6acc74809252a8f1ad904ba97d74101b04fd96e29a2e2d9126cc5b"
+    },
+    {
+      "path": "artifacts/isic2018/failure_regression.json",
+      "bytes": 282,
+      "sha256": "c19aaf8fd7c918c52e8b6aa3fe2025944bb3e3cef6b4be3d033927e8d5141ec5"
+    },
+    {
+      "path": "artifacts/isic2018/manifest.json",
+      "bytes": 1588685,
+      "sha256": "7e48db6ff634af4e3e980162b4a35a9adc43d9d619ee362ce0d82c5458aa6275"
+    },
+    {
+      "path": "artifacts/isic2018/policy_int8.json",
+      "bytes": 499,
+      "sha256": "332a036ad6c905227b38311e12321df88b45c6a627e3f553a0d496cb39b5f175"
+    },
+    {
+      "path": "artifacts/isic2018/postprocess_ablation.json",
+      "bytes": 692,
+      "sha256": "941f349e66ac8df4c9a584df2cebcb3ceaf9ea38aeb2c434f0028d28947b79a8"
+    },
+    {
+      "path": "artifacts/isic2018/postprocess_ablation.png",
+      "bytes": 165494,
+      "sha256": "f69fd3f4cacb615cb8ca4bd6cdbc4e0254588ac599112be0b1f8a0e537c0ca09"
+    },
+    {
+      "path": "artifacts/isic2018/split_verification.json",
+      "bytes": 147,
+      "sha256": "1ea1ad480768ec91f74d2f4e7d15f9ea3685643e732616ff85e1958928dbaf1b"
+    },
+    {
+      "path": "artifacts/isic2018/tests.json",
+      "bytes": 209,
+      "sha256": "f41ab8e4fbcb120007a4d5f73ba1165e3aaccbfe0d498d97f64091601a24f1c6"
+    },
+    {
+      "path": "artifacts/isic2018/training.json",
+      "bytes": 5561,
+      "sha256": "c252bd4b5c2b9b3d067c094f0a73686064aeccee32ced0e6ee4e16ec61724c2c"
+    },
+    {
+      "path": "artifacts/isic2018/ui_snapshot.png",
+      "bytes": 310626,
+      "sha256": "df4ce464228ab7b725394ff313a8c136184a46d31c316840977251ca575e957b"
+    },
+    {
+      "path": "artifacts/isic2018/结果摘要.md",
+      "bytes": 1750,
+      "sha256": "3c113770c59c36ec925fb474d9b65aadd73894896da9856ac3e85c2b7799afd0"
+    },
+    {
+      "path": "artifacts/models/isic2018/arena.bin",
+      "bytes": 5008640,
+      "sha256": "69b9849e42dbc14e964baba1fea08548c9b3a43c14ac20b00cc1a699939fbad2"
+    },
+    {
+      "path": "artifacts/models/isic2018/fp32.npz",
+      "bytes": 1956714,
+      "sha256": "1a425cf5ef5d295eb49250286a491c6b1cd76924790a7f6fd08bdf5fc4e12844"
+    },
+    {
+      "path": "artifacts/models/isic2018/model.json",
+      "bytes": 23961,
+      "sha256": "ba9972638fc5569ade49c76d460bc22e9f5df5dd78b2c39f69dd719b42976aca"
+    },
+    {
+      "path": "artifacts/models/isic2018/model_budget.json",
+      "bytes": 185,
+      "sha256": "b7c1d1e0b5ead08b1abc4ffc42dc6978ad50c726376056b3c0c1ea43e1d4c75a"
+    },
+    {
+      "path": "artifacts/models/isic2018/params.bin",
+      "bytes": 3076,
+      "sha256": "a82ed32001c9149857c8784e14b9bb0868ad590b8115332a80277647735b71f4"
+    },
+    {
+      "path": "artifacts/models/isic2018/policy.json",
+      "bytes": 534,
+      "sha256": "30d79ba83235eae39676ee80aa7e6f83609765196c8a080bd62a33ed11c11b7d"
+    },
+    {
+      "path": "artifacts/release/artifacts/models/baseline/arena.bin",
+      "bytes": 5008640,
+      "sha256": "f2985fc8ca413e0e54fe20fc6b899612164782fd9f59b1f9034d593af8c008cc"
+    },
+    {
+      "path": "artifacts/release/artifacts/models/baseline/fp32.npz",
+      "bytes": 1956714,
+      "sha256": "7aeaf57c4839518ab47f36cc8ae629cc3f1b92c89080ff62d5d36624785f9212"
+    },
+    {
+      "path": "artifacts/release/artifacts/models/baseline/model.json",
+      "bytes": 18629,
+      "sha256": "f3314ac80b3387a3155b16519024a695056058927f953a2ebb5912eb68f40cfa"
+    },
+    {
+      "path": "artifacts/release/artifacts/models/baseline/params.bin",
+      "bytes": 3076,
+      "sha256": "8b79329d87ba87ca75d6376d455c134ddf04baea6a27156d83172f2630642f67"
+    },
+    {
+      "path": "artifacts/release/artifacts/models/baseline/policy.json",
+      "bytes": 266,
+      "sha256": "d3dd0ec2179cbd45a841aea3ecdcfe9baef2e3f0ffcd4ee4948c68a9f3a4404b"
+    },
+    {
+      "path": "configs/default.json",
+      "bytes": 558,
+      "sha256": "446c413f60f9e3dae6696c64cac7f5d2474ece66c390cfc139c6b99de91505f6"
+    },
+    {
+      "path": "docs/ISIC2018改进说明.md",
+      "bytes": 4855,
+      "sha256": "9e4b8e5ca90408cc0d932c9ee04555b32be4b5c5578da14abf51fef75532ce25"
+    },
+    {
+      "path": "docs/PYNQ-Z2首次上板_仅USB与电脑.md",
+      "bytes": 6516,
+      "sha256": "7bbbba74dbb0e976d60bed81dc05c85e61e1354ff7322bb3b32cca6d56051c02"
+    },
+    {
+      "path": "docs/后续操作指导_仿真上板与代码修正.md",
+      "bytes": 46003,
+      "sha256": "a0e3705534b330d615bda8ed2ecdd53e8e67141a50456a1646a0891dea220475"
+    },
+    {
+      "path": "docs/工作交接_20261026.md",
+      "bytes": 5218,
+      "sha256": "1d1cfe9c3b8890e08289a0cc6df96d1f7fc63baa7383835017310099ed671122"
+    },
+    {
+      "path": "docs/皮肤病灶分割系统技术报告_20261103.docx",
+      "bytes": 1067173,
+      "sha256": "95999208fa525ab56d412e7c6a9b7f9bfa0390d3e4dce992e9bfd1759e8db835"
+    },
+    {
+      "path": "docs/项目整理说明_20261006.md",
+      "bytes": 5812,
+      "sha256": "b5cf55b2d51fbd31b046244773ab19c985f7319ecde4b0241c56831e70a1e686"
+    },
+    {
+      "path": "docs/项目说明.docx",
+      "bytes": 296829,
+      "sha256": "51eb1b86a15acc09eb91464f23b76faae26ea891fb4e071adfcd6f3b418c7300"
+    },
+    {
+      "path": "docs/项目说明.md",
+      "bytes": 12474,
+      "sha256": "e9931666e387a82258ed2e228fdd09f383ea49c6b592c200b9fe7b199978e126"
+    },
+    {
+      "path": "docs/验收摘要.md",
+      "bytes": 1227,
+      "sha256": "93ac10e4439ca5294303ce7e935a965a92206cf3894ade692563a0ae31301994"
+    },
+    {
+      "path": "hardware/hdmi_probe/build.tcl",
+      "bytes": 2888,
+      "sha256": "94aff5c3cf7835aab23289f16afa40b9a0f2b91d60831c4ae6dc0734ccd5f3fe"
+    },
+    {
+      "path": "hardware/hdmi_probe/hdmi_probe.sv",
+      "bytes": 2088,
+      "sha256": "8d22eb637f4752134d64f7531e76e63f02d3efb827aaa3a932614a84df402059"
+    },
+    {
+      "path": "hardware/hdmi_probe/hdmi_probe_wrapper.v",
+      "bytes": 559,
+      "sha256": "bc496996d9e3cf7a967708bd9c00ab246b12754c184c76a0ca8b496484641cc6"
+    },
+    {
+      "path": "hardware/hdmi_probe/implement.tcl",
+      "bytes": 1549,
+      "sha256": "6ee7d9de8fdb6893c7681d47c757db7d92ed0b48f08b973aa7453f9bfd74a45b"
+    },
+    {
+      "path": "hardware/hdmi_probe/LICENSE-MIT",
+      "bytes": 1068,
+      "sha256": "b39d2287911147fbe58a5a288aa0f2a38b4459575e168551c2a3e3853e01536d"
+    },
+    {
+      "path": "hardware/hdmi_probe/package.py",
+      "bytes": 1610,
+      "sha256": "b810ba32e3efcd6bc3d38c8d248b8dab1b769a00843a98f51a5078c26070ef24"
+    },
+    {
+      "path": "hardware/hdmi_probe/packet_picker.sv",
+      "bytes": 7808,
+      "sha256": "b9e3c902c6fc7d65c2e1ce5edca39c30809b2d2b6f98a9287d0d83b9efebe3b5"
+    },
+    {
+      "path": "hardware/hdmi_probe/pins.xdc",
+      "bytes": 503,
+      "sha256": "161d499cecd08b6e9a62f73fb9c667931ddd4b18512f70d38142485ca3ccc935"
+    },
+    {
+      "path": "hardware/hdmi_probe/protocol_tb.sv",
+      "bytes": 2614,
+      "sha256": "db2e3849b5907ae271e2f424037f79535823ce638f7c62708ab9a6a555ab3c9a"
+    },
+    {
+      "path": "hardware/hdmi_probe/README.md",
+      "bytes": 2184,
+      "sha256": "e50b9185004c41e0117cd8764bf4e77a1c5f223a13d2ba37331cb78f2d91c4a8"
+    },
+    {
+      "path": "hardware/hdmi_probe/serializer.sv",
+      "bytes": 13829,
+      "sha256": "6d39f9bd1d8b0adef6bf5000ae9bf76837fc96f679aa6863778cc643b08a82c7"
+    },
+    {
+      "path": "hardware/hdmi_probe/simulate.ps1",
+      "bytes": 967,
+      "sha256": "8ab813ce2d32b34fafd5b74202fbae50700663690ced96601e4b5201e4ff514f"
+    },
+    {
+      "path": "hardware/hdmi_probe/transfer.ps1",
+      "bytes": 1802,
+      "sha256": "30a28209749208b9f4d1b37db3bb50cab21d2237f10fd16b0cf73d503e144499"
+    },
+    {
+      "path": "hardware/hdmi_stream/hdmi_stream.sv",
+      "bytes": 4027,
+      "sha256": "28a0993f833bd2a7deea2d32f067a2b0ef089cc605b30ac0de3c7a4d27989c9a"
+    },
+    {
+      "path": "hardware/hdmi_stream/integrate.tcl",
+      "bytes": 2663,
+      "sha256": "1b9f65b76683434d82fb8ba9fa16fd7398ea10e55dc6288319b0e8c3563267e6"
+    },
+    {
+      "path": "hardware/hdmi_stream/package.py",
+      "bytes": 3899,
+      "sha256": "27bb6cd76a09f6e62fe8c1c5b358033e87a606f914746b890212a0c707807c4b"
+    },
+    {
+      "path": "hardware/hdmi_stream/prepare.py",
+      "bytes": 4355,
+      "sha256": "2f46094f77130ca6e936ec7ebddf9d32b995b4fa84cdbd54b2c66089aa3f6299"
+    },
+    {
+      "path": "hardware/hdmi_stream/README.md",
+      "bytes": 3128,
+      "sha256": "5311ad487898f936a618ec9cd8a9323df489d8501730594ba8bf78144f2c0efb"
+    },
+    {
+      "path": "hardware/hdmi_stream/stream_tb.sv",
+      "bytes": 2782,
+      "sha256": "a1945d80c576eaf03ff8ad3a27542cd6400cb4e46b4b7725ddd12c47632185c8"
+    },
+    {
+      "path": "hardware/hls/build.tcl",
+      "bytes": 610,
+      "sha256": "fc6415450feb5e0ba3ddf2affaca72f67d501ff8b9c8bb101b1c226f353633b5"
+    },
+    {
+      "path": "hardware/hls/cosim.tcl",
+      "bytes": 200,
+      "sha256": "b4602fa39498b2e2611e47b672327d96267a4675792a3f2d07ccb73756f16956"
+    },
+    {
+      "path": "hardware/hls/lesion_accel.cpp",
+      "bytes": 6529,
+      "sha256": "599d1ee7f5784d64322b72a51dca5d47c9aa4fd99414e307b62ad15c99c0bbe7"
+    },
+    {
+      "path": "hardware/hls/lesion_accel.hpp",
+      "bytes": 247,
+      "sha256": "a49a7b1d7c4648ed442de164d12209f7f9497c2847f95c345047377bf36feec4"
+    },
+    {
+      "path": "hardware/hls/testbench.cpp",
+      "bytes": 2810,
+      "sha256": "2309af99642c321995db88e230a1f106a10bbbffd7ec5a946cf60f36081c2be8"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel.v",
+      "bytes": 278962,
+      "sha256": "83dbfbafb4e73da7b5900260f012ed7eb120caf2ddf35c89965ff12cd903c7c2"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_control_s_axi.v",
+      "bytes": 13999,
+      "sha256": "7b79ece5c894dcd25fe5eb2b46ebc77051946fa19aefb14f0740af9f59143f7a"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_controlmem_m_axi.v",
+      "bytes": 150751,
+      "sha256": "fd7b416b6d3ac1c619969c55699fcc5982888570874ec95c3bbe6b6b50b4fb2a"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_convolution.v",
+      "bytes": 379994,
+      "sha256": "1aa1bf9213a2921166d6a644ecc1b0f0215df798dee61d85fc633b8aefd08851"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_convolution_acc_RAM_AUTO_1R1W.v",
+      "bytes": 1130,
+      "sha256": "350a23ababa986f0c0ee276af839eda81f0a75b08d00a50e067b62261877c1d5"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_convolution_Pipeline_VITIS_LOOP_28_4.v",
+      "bytes": 14536,
+      "sha256": "7c39c86f0a90d52f89615fb2d8dbf38c98e43bfea038d2b812f9248d5284de39"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_convolution_Pipeline_VITIS_LOOP_37_7_VITIS_LOOP_38_8_VITIS_LOOP_39_9.v",
+      "bytes": 58321,
+      "sha256": "c651601cca7fb17cad01fd03c1d276a53353f73b57f5f82041d6fd4d0f682b99"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_convolution_Pipeline_VITIS_LOOP_45_10_VITIS_LOOP_46_11_VITIS_LOOP_47_12_VITIS_LO.v",
+      "bytes": 136716,
+      "sha256": "bef1b189d0f118260baf7416e7f3c4438af8a5e796f56f03adc3891c4e08ea16"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_convolution_Pipeline_VITIS_LOOP_53_14_VITIS_LOOP_54_15_VITIS_LOOP_55_16.v",
+      "bytes": 109346,
+      "sha256": "cf98a9483f10e9356e1d51675260133512a99d9be5fc60c0e37dfab6b176bcb4"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_convolution_Pipeline_VITIS_LOOP_69_19_VITIS_LOOP_70_20_VITIS_LOOP_71_21.v",
+      "bytes": 41570,
+      "sha256": "94d6337feb219676c33b32418891810521acb3785efdc9e27b552d5475d48a6f"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_convolution_pixels_RAM_AUTO_1R1W.v",
+      "bytes": 936,
+      "sha256": "00ddaab982d55fc0bede6f85097fe65c4a3339e484207e638601d886cd6bdde0"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_convolution_weights_RAM_AUTO_1R1W.v",
+      "bytes": 935,
+      "sha256": "ba2fead87235dbc7290dd6392177f91e077d9b8aebd4708587951c8fad7b33e8"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_d_RAM_AUTO_1R1W.v",
+      "bytes": 1116,
+      "sha256": "d082fe33c2af143deb8cb261207ded62e0336d3c33bd9207fc503a384578ccbe"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_flow_control_loop_pipe_sequential_init.v",
+      "bytes": 2822,
+      "sha256": "d86b90f4510bf4dc58bf6124b4ec521fa0f7d21d25e74bfbc87bc454040a9017"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_gmem_m_axi.v",
+      "bytes": 150445,
+      "sha256": "153634653fea8f8c212b978dc5a2e8472a5912f460c8e95215cd273b6ced6705"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_lesion_accel_Pipeline_VITIS_LOOP_160_24.v",
+      "bytes": 16245,
+      "sha256": "65d38ebbe4d3e61c00d3d0cae5ef99c0a48db03383544d71c423b01a9020ec79"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_lesion_accel_Pipeline_VITIS_LOOP_86_1.v",
+      "bytes": 14092,
+      "sha256": "e368e19269906ec850afd7cd56f95b151f91ee19acdb26d76ac7348177d9b09f"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mac_muladd_8ns_3ns_32s_32_4_1.v",
+      "bytes": 1904,
+      "sha256": "f4ab263ad97444ed95684bf136149fc0300e5b44d7cc074ca364073649e68de8"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mac_muladd_8s_8s_16s_17_4_1.v",
+      "bytes": 1892,
+      "sha256": "f8fab684c6aca3501c82a97bf89e5012023532c093acb9a5897002def29e240b"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mac_muladd_8s_8s_17s_17_4_1.v",
+      "bytes": 1892,
+      "sha256": "458bc5d774942306d1763d164749c91679332c77537016e191e32f029f77cef3"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mac_muladd_8s_8s_32s_32_4_1.v",
+      "bytes": 1892,
+      "sha256": "82586a043fc937af27ea5da46fdc1442e7896d288a4e112235dd0883c1dbe5ee"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_2ns_32s_34_2_1.v",
+      "bytes": 811,
+      "sha256": "00f9730c33eacff8d76f67c51d4563bfc00a0f96197b1227f5b885182b02c970"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_31ns_31ns_62_2_1.v",
+      "bytes": 821,
+      "sha256": "d70839f74a7669975d1c11c72306c2ab8ccb3eaae30e262a06eb67beba14d481"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_31ns_32ns_63_2_1.v",
+      "bytes": 813,
+      "sha256": "f43065a4878c3b7be40ac70558700f74c9b51bd1840a36847b6471042ff3ef11"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_31ns_32s_62_2_1.v",
+      "bytes": 812,
+      "sha256": "973011ca30cf766f94efbd0a372f3f03d54cda5be6af276d5aaae6ae9158cb63"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_31ns_38ns_69_2_1.v",
+      "bytes": 821,
+      "sha256": "cce3161cdea117650e6fd89a7091a48f7a5cb6473a01b0010a647eb38f9da7d9"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_31ns_64s_64_5_1.v",
+      "bytes": 1072,
+      "sha256": "766180d4ffb08f3014f6f93ce6f9b1c6e3c9494a48aba760a4446f8ee1bb8063"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_32ns_32ns_63_2_1.v",
+      "bytes": 821,
+      "sha256": "f83d7d24c8f6c0850e4411443f8b2d505d6c8efedcd0888bb51a2ad34eda1d9d"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_32ns_32s_62_2_1.v",
+      "bytes": 804,
+      "sha256": "06b54e248b0b748102a034854e8d31a75c64191f1cc7daa26a8669689362c0b3"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_32s_32s_32_2_1.v",
+      "bytes": 803,
+      "sha256": "dfd5f80ae5bb87ac7a0ba8a5e988c2a0dbc7e2db2707a2bd202fedde83addf80"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_32s_32s_64_2_0.v",
+      "bytes": 803,
+      "sha256": "a4112a15542eaaf262263a9158e7d6ccd1aa9570679b743e96d2cccdc262ffa4"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_32s_34ns_65_2_1.v",
+      "bytes": 812,
+      "sha256": "acd278ed9113d54d561831d849f7e9d0b8b7a3bd816ec377c58ca56f4afa86bf"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_34s_32s_64_2_1.v",
+      "bytes": 803,
+      "sha256": "f360408121437e37ed68d7c709989ea2a6bce6ada89a068b253a8d323f3c72d0"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_62ns_31ns_64_5_1.v",
+      "bytes": 1081,
+      "sha256": "678bc3dc56bdcd827e9afa01532af18d74b0e7d3be673ce7ab8dbfd6f02e657e"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_62ns_32s_64_5_1.v",
+      "bytes": 1072,
+      "sha256": "17a2f026ea72069ca448fafa0c99ff9e9a41cf7ccd590e97e54f04790c011570"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_63s_32s_63_5_1.v",
+      "bytes": 1063,
+      "sha256": "5c4792d06e92faec731d69b51340ace076848b23506a9bb460681ae5c847da12"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_63s_32s_64_5_1.v",
+      "bytes": 1063,
+      "sha256": "3810b9e9d69f87811d2466d02d3d7789f1d31886e813ac71b7ddb4b205053d7e"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_64s_32s_64_5_1.v",
+      "bytes": 1063,
+      "sha256": "967c0795189b9825a9e4b85b4a91532372cf9ad7cb1afdc5f0c5508b69f79f72"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_mul_8s_8s_16_1_1.v",
+      "bytes": 611,
+      "sha256": "3d22493ca4d7ede446d84712f9f280844f09699b109251c6d1e20ddd56853b13"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_rq.v",
+      "bytes": 6344,
+      "sha256": "6381328d78b6ade2547219ad299263792d319fef3d8d1f6b68b9b1b5b5ada503"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_sparsemux_13_3_64_1_1.v",
+      "bytes": 1603,
+      "sha256": "08edd8419f7d89daffe08528b2e1533cd4596a2dd8044b4704fdced0872e70ac"
+    },
+    {
+      "path": "hardware/rtl_generated/lesion_accel_sparsemux_17_3_32_1_1.v",
+      "bytes": 1871,
+      "sha256": "dceb8b7cb18cb46bf6e7ed9e749a60cdb8013230474b135dc61b18376ab7a9db"
+    },
+    {
+      "path": "hardware/rtl_generated/README.md",
+      "bytes": 472,
+      "sha256": "dc42f268c78149e8e21022f42c41cd50d0638b6f6190747e9b41c3dd816c12c4"
+    },
+    {
+      "path": "hardware/vivado/build.tcl",
+      "bytes": 4924,
+      "sha256": "405c77d852eca3421b80494b7ffc0b6ae2db6df6d9eb0c51df8df5aa6a36b820"
+    },
+    {
+      "path": "hardware/vivado/finish.tcl",
+      "bytes": 2373,
+      "sha256": "614b0ff3ef64b48da7222c1c5c177f299ed3c71738f391762270f591dd9608e3"
+    },
+    {
+      "path": "hardware/vivado/resume_route.tcl",
+      "bytes": 202,
+      "sha256": "9bd3923f651d1c206d102931475e37b72e8e470b9972bc597655fd6804580d73"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 467,
+      "sha256": "c94bfd9fb41144bea80d09c8f2dada561fe31909547ae8b42da14650ff2529f0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4381,
+      "sha256": "74d4d1d4892bef37b68ed0300562393879a6f11ecff0fef7b27ba91822587686"
+    },
+    {
+      "path": "record/benchmark_fp32_numpy.json",
+      "bytes": 26242,
+      "sha256": "4c53ecbbd57a17cfab75bf38b94a4b126266ff8c1e77f1a37c13703fe2109c16"
+    },
+    {
+      "path": "record/benchmark_native.json",
+      "bytes": 26535,
+      "sha256": "469181ec2d20fc5be0ba6e0966a97c7b69a96cb21636a0e49639443d1fd49c7b"
+    },
+    {
+      "path": "record/board_acceptance.md",
+      "bytes": 1719,
+      "sha256": "82952444ce6bfacbf0c8590701e7857ea0f90d45e9cd49f4133bc1f97ebc80f0"
+    },
+    {
+      "path": "record/board_dependencies_20260928.md",
+      "bytes": 2016,
+      "sha256": "74a00b369bcd840e6e07fd7a69eb9dc0c430ef83629c3b33c57965460c806926"
+    },
+    {
+      "path": "record/board_status_current.json",
+      "bytes": 1227,
+      "sha256": "0cd48bf9d23b8342f28fbabcb7be02366feb731b56684e0073807fb5c56e3e98"
+    },
+    {
+      "path": "record/data_errors.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "record/decisions.md",
+      "bytes": 5878,
+      "sha256": "3baaf9d05289562a2058735135c8ba949782b7a5625e48b37585a846543f5312"
+    },
+    {
+      "path": "record/layer_compare_native.json",
+      "bytes": 3796,
+      "sha256": "b2177e3fb7c7de74e187ffba3760d9ed1bcf951802ebad79b71e472e05b4c91f"
+    },
+    {
+      "path": "record/model_budget.json",
+      "bytes": 179,
+      "sha256": "31d831ea8e9ff16e1ad50846db3aeb21a24c449a69ddd11efa05b2fd7c16374f"
+    },
+    {
+      "path": "record/open_questions.md",
+      "bytes": 1465,
+      "sha256": "1a0a761d34810050d05775e28f2041129d0880d1fe7d48cfac6f084a6fb4e356"
+    },
+    {
+      "path": "record/section6_results_20260928/comparison.json",
+      "bytes": 426,
+      "sha256": "98b38445a63b5405c6f2a96a24a938e440cfbdb918910895d30663ef6b70ace3"
+    },
+    {
+      "path": "record/section6_results_20260928/layer_compare_fpga.json",
+      "bytes": 3785,
+      "sha256": "952ac3b761f836d8baf7bbb09392aba251c28a09f02762e8ccdd5c04385de7f4"
+    },
+    {
+      "path": "record/section6_results_20260928/portrait_comparison.json",
+      "bytes": 48,
+      "sha256": "05236ca38d7c1d46d5303afd5f0a4cc8fdd359db90ffdb0567df6bcd2ce1b0e8"
+    },
+    {
+      "path": "record/section6_results_20260928/portrait_summary.json",
+      "bytes": 1395,
+      "sha256": "8666a500872403484c557ce08889bc4402e0ae560c91727f39e5abcb1717c61f"
+    },
+    {
+      "path": "record/section6_results_20260928/summary.json",
+      "bytes": 16685,
+      "sha256": "9cd06c4cb616b3ec45469ea56447b821f57fac6597d9359d74acb27d9e672ac4"
+    },
+    {
+      "path": "record/section6_results_20260928/验证结论.md",
+      "bytes": 3144,
+      "sha256": "4c6ba287f2d42c060b9246c7a4798c26a2c20cf8db4461cf05acc07d12e7b9c3"
+    },
+    {
+      "path": "record/section7_20260930/board/checks.json",
+      "bytes": 1841,
+      "sha256": "efd99f8890f14cd2ff2d2ef0fb8d752c4be72bdb1e0a8f0aac4d67243ad180a5"
+    },
+    {
+      "path": "record/section7_20260930/board/events.json",
+      "bytes": 73214,
+      "sha256": "99d593ed712600716cec13953743b5d9af68c0f802c7fb76a9c36a993b74c207"
+    },
+    {
+      "path": "record/section7_20260930/board/saved/frame_000001_v1/result.json",
+      "bytes": 1317,
+      "sha256": "6a091198fa396c8d070b682e4b29187137acf4da5cd627d227a4062cc96a620d"
+    },
+    {
+      "path": "record/section7_20260930/board/saved/frame_000010_v18/result.json",
+      "bytes": 1324,
+      "sha256": "e1cfc5ac675a9001ebd8572c28f620f9bd6df6a4acc8203da8b6e40f18ebe328"
+    },
+    {
+      "path": "record/section7_20260930/board/saved/frame_000017_v38/result.json",
+      "bytes": 1240,
+      "sha256": "d7ff82c1e56fed2ac42b8e95ecd2f029394cfb5bad76c86d769fe552294daff5"
+    },
+    {
+      "path": "record/section7_20260930/board/saved/frame_000023_v58/result.json",
+      "bytes": 985,
+      "sha256": "68e57780a4534725727e7810ef98cb13997b2bca049db7a3c717f1071e44d52d"
+    },
+    {
+      "path": "record/section7_20260930/board/saved/frame_000025_v60/result.json",
+      "bytes": 1259,
+      "sha256": "96d83a7703181638ba1e51028060b9f7c6a6dcc3b67d2be484e5ba359c26b32b"
+    },
+    {
+      "path": "record/section7_20260930/状态.md",
+      "bytes": 8292,
+      "sha256": "6e7258558200e1e323f03707b9f604a696a9100702110ec61f335556e5986445"
+    },
+    {
+      "path": "record/source_documents.json",
+      "bytes": 1510,
+      "sha256": "1801cc8a22bec8e1018bd85da22e84e47edac7febf060940c16127781bcd7c93"
+    },
+    {
+      "path": "record/source_hashes.json",
+      "bytes": 8598,
+      "sha256": "c4eddae5bb7dd40cb6406f28fcb31bf0d4dd8b2c297dd13e7f5026e9c38c75d2"
+    },
+    {
+      "path": "record/training_latest.json",
+      "bytes": 233,
+      "sha256": "7237b9e0f6b5ea7b9119cdc774b593fb271d66673eeec81c953312f213d44057"
+    },
+    {
+      "path": "record/upstream_lock.json",
+      "bytes": 326,
+      "sha256": "fc8daf66f86b63bd4f8a5f38ee0a3a3499281a468b957a0616a47afe90b6e17e"
+    },
+    {
+      "path": "record/vivado_review_20260927.md",
+      "bytes": 3997,
+      "sha256": "5ca7dffb6d4d0e8bfd7f51058901c159fa58b2c5f730f325caf20e1dff7460f0"
+    },
+    {
+      "path": "scripts/audit_data.py",
+      "bytes": 94,
+      "sha256": "627b1585977945a5bcb6617bc4c2b167582744053c13f51ac6a5f2428923c5a8"
+    },
+    {
+      "path": "scripts/benchmark.py",
+      "bytes": 3079,
+      "sha256": "40e79f23729f5f52c4649171b903dabfd7201740d0afb6190312bad6ae35c2e5"
+    },
+    {
+      "path": "scripts/board_env.sh",
+      "bytes": 302,
+      "sha256": "9bf72e6022399f02a044373194e24791e4ddff4f24d4d7873b963c097cc2e4a1"
+    },
+    {
+      "path": "scripts/board_first_test.py",
+      "bytes": 8374,
+      "sha256": "62681f785682d23c4c615d8ddf8b6db2ca5a4db638f812ec8896555c1fdd171b"
+    },
+    {
+      "path": "scripts/board_preflight.py",
+      "bytes": 420,
+      "sha256": "afa0fc24fb3a0ed58be0a915816d6ee271e7219a623d7c9d4bd07a5e2c8bd62a"
+    },
+    {
+      "path": "scripts/build_board_start.py",
+      "bytes": 4174,
+      "sha256": "27c7033e3ac8894851a3db400b9eb34eb7edd022fe79a515449f627548ed0124"
+    },
+    {
+      "path": "scripts/build_document.py",
+      "bytes": 3893,
+      "sha256": "28f02b5a23d06be99f115051f651a5a001a14380090f3aa7ed7e5acaae8b0a0c"
+    },
+    {
+      "path": "scripts/build_hls.ps1",
+      "bytes": 1057,
+      "sha256": "d818197dfa1285e079c0d30d5fd830e87e72f673f8b1b68f5160365deb46d26a"
+    },
+    {
+      "path": "scripts/build_overlay.ps1",
+      "bytes": 812,
+      "sha256": "ad1878a29e8a3f37b3f84d9de374810afd3f26bea90ff34231925d263cf68448"
+    },
+    {
+      "path": "scripts/build_technical_report_20261103.py",
+      "bytes": 38808,
+      "sha256": "44a6516aea50bbd5eb6a39469578c60c1e9c9e47ed716626dbd59da0df6cdc46"
+    },
+    {
+      "path": "scripts/build_video_ip.ps1",
+      "bytes": 496,
+      "sha256": "829276819bcaa655af7a4171d38ac975a161865ba74e6ac5d75afd0dc9152a09"
+    },
+    {
+      "path": "scripts/check_isic2018_failure.py",
+      "bytes": 2335,
+      "sha256": "a29170125d052e5b0ee14311f8de45d73022c60cfc0df1ef7a6d8af17cbbe5da"
+    },
+    {
+      "path": "scripts/compare_layers.py",
+      "bytes": 1751,
+      "sha256": "58e02f94ae2dfb5c1baf97cbc406693b76a7b5d8192243408a1e4c45d05abd8b"
+    },
+    {
+      "path": "scripts/diagnose_postprocess.py",
+      "bytes": 2183,
+      "sha256": "7d5cb54f4aedb9d21db6bfef9c8f8aeb6e1e6603197c2b0e0dd708c36bd85bc6"
+    },
+    {
+      "path": "scripts/evaluate_isic2018.py",
+      "bytes": 9251,
+      "sha256": "50ea0f980a070f99ba564d2ab46ac889b39a7f2e29dd937486ff054cbeb41fc7"
+    },
+    {
+      "path": "scripts/export_predictions.py",
+      "bytes": 1826,
+      "sha256": "a92bdcae6f08041ab90d829988380dbc0be46112d2d2f0cc655ef86021b5edbd"
+    },
+    {
+      "path": "scripts/finalize_hardware.py",
+      "bytes": 1623,
+      "sha256": "d686b057cd2d60a5d5ca22115a8df7b80832caf9ffe00a3d3231814890f9e522"
+    },
+    {
+      "path": "scripts/hdmi_colorbars.py",
+      "bytes": 1895,
+      "sha256": "aba29174b412ef5bfe0297711b54f7d813b8ced7c8e03217fc42104d22ba13ee"
+    },
+    {
+      "path": "scripts/hdmi_protocol_probe.py",
+      "bytes": 903,
+      "sha256": "8e7ffc3fad212ef2fdb99567cca3eaf90ff543f3802a374a81ef89e724d58b1c"
+    },
+    {
+      "path": "scripts/improve_isic2018.py",
+      "bytes": 10632,
+      "sha256": "cb180bc20020ba450ae07116ce9f998876400f2b5c7103745ab4482845e39832"
+    },
+    {
+      "path": "scripts/install_board_service.sh",
+      "bytes": 575,
+      "sha256": "2ef8155efb73e78c7b2d3168287520fee52df9497d2af86ef7eb1265ca02f586"
+    },
+    {
+      "path": "scripts/native_core.ps1",
+      "bytes": 687,
+      "sha256": "c88878690c8592016c827e7f728a880288fae7f4f229d08e4303c873ab0c3103"
+    },
+    {
+      "path": "scripts/native_core_msvc.cmd",
+      "bytes": 413,
+      "sha256": "be99edc00bf8795baf8fd16281a7091398a905f6d40615b382e97155fab174f7"
+    },
+    {
+      "path": "scripts/package_isic2018.py",
+      "bytes": 5529,
+      "sha256": "d3d103e67331a81d3f8e95942812ad2dd752332098225505e69aa12c0428ad94"
+    },
+    {
+      "path": "scripts/package_release.py",
+      "bytes": 3379,
+      "sha256": "bf63805ffd7c768cb26d9058bf56429ea1b58573f93e0d7c0dbedf0c959e8cf9"
+    },
+    {
+      "path": "scripts/prepare_hardware.py",
+      "bytes": 2580,
+      "sha256": "534deac0a9e899a065ae0b9aec59e5e9fbf1f720413b20139c4fff73e6625555"
+    },
+    {
+      "path": "scripts/release_status.py",
+      "bytes": 5508,
+      "sha256": "424917b0b08d614738e15777ba1472dc82cb9324bd8302b2a2409cc00829b9e9"
+    },
+    {
+      "path": "scripts/render_document_word.ps1",
+      "bytes": 463,
+      "sha256": "6637d37b2e36399d203156995df6c6728abfb17439464f6d2794756fae52a31e"
+    },
+    {
+      "path": "scripts/section7_render_profile.py",
+      "bytes": 1052,
+      "sha256": "37797481608bc39cb450c7fd6cb496029df290f1a4ed8c0f2c474382be400488"
+    },
+    {
+      "path": "scripts/section7_ui_test.py",
+      "bytes": 9574,
+      "sha256": "46f5cc6f83982ba2356790c3079725106a4fb1ddd2c544576a84facde4c942d1"
+    },
+    {
+      "path": "scripts/verify_board_cases.py",
+      "bytes": 2188,
+      "sha256": "16a82f9733ad22ccd3509d7ff1754cd9018f0dba87e82885522ac6be78dff4d6"
+    },
+    {
+      "path": "scripts/verify_isic2018_export.py",
+      "bytes": 1389,
+      "sha256": "4991f57a79e364e6c6522679664b525ea5b5bb58eb68fb3396e59b5e6e46909f"
+    },
+    {
+      "path": "software/lesion_fpga/__init__.py",
+      "bytes": 101,
+      "sha256": "6a02b79332be303bc30e473c8aeb498c8dc6bb89e02c09874048e1f087da9504"
+    },
+    {
+      "path": "software/lesion_fpga/app.py",
+      "bytes": 10093,
+      "sha256": "19868be4b87bda2ecfe3d30d1c18f3a621464e1f83b12d2305b5d58bcb239487"
+    },
+    {
+      "path": "software/lesion_fpga/backends.py",
+      "bytes": 6627,
+      "sha256": "33be00f9124c5a0c42f10af70b9796ea1e1940e18ce2e7afe9fc387648281fa0"
+    },
+    {
+      "path": "software/lesion_fpga/common.py",
+      "bytes": 1199,
+      "sha256": "953c3976301f6b2fe90cbccb816ff8319421402e2ca6c182068717fcb5a46359"
+    },
+    {
+      "path": "software/lesion_fpga/dataset.py",
+      "bytes": 3951,
+      "sha256": "8eb77782ee3aa70d9bebef29a0e653cda782d6e65d66335e851de46cf2fa2a68"
+    },
+    {
+      "path": "software/lesion_fpga/evaluate.py",
+      "bytes": 6281,
+      "sha256": "284a94366380221e67ea64ab6013b7f20bdfcae734e85f2e45dc7805fe7f1be3"
+    },
+    {
+      "path": "software/lesion_fpga/export.py",
+      "bytes": 6455,
+      "sha256": "01ffad3403605c354b16d3effbf3b532bc7e81506145122c8d94ae5fa9d1fb7a"
+    },
+    {
+      "path": "software/lesion_fpga/float_backend.py",
+      "bytes": 1919,
+      "sha256": "f8f66ddcc1c6699e09d3e7e4b3987acfb62de5f1d9883a90a7efb2c3c22a7a7c"
+    },
+    {
+      "path": "software/lesion_fpga/imaging.py",
+      "bytes": 7616,
+      "sha256": "cb1a5f1031a43dcf33ded2f82aa3b280f5557bc0109d62a63acc29576faf09b6"
+    },
+    {
+      "path": "software/lesion_fpga/model.py",
+      "bytes": 2484,
+      "sha256": "7c082c7b1f4f7c7b70e9aece403e1b6fafa0b9f47be17fae603049cd35ca5c77"
+    },
+    {
+      "path": "software/lesion_fpga/pipeline.py",
+      "bytes": 3497,
+      "sha256": "c345d376e91d58ef5e5016d312a5cd364c14f797a751f3d65d91a3ee1fd3274d"
+    },
+    {
+      "path": "software/lesion_fpga/quantization.py",
+      "bytes": 5508,
+      "sha256": "5e5b7646cc65c6638805d86535117ea7d5e308b6cdeeaabd0fd48a468a47f7cd"
+    },
+    {
+      "path": "software/lesion_fpga/train.py",
+      "bytes": 4806,
+      "sha256": "115fa23c1f32cbe462f693ce7026235fc27b4f99d57874ac144252f1f1e51ecc"
+    },
+    {
+      "path": "software/lesion_fpga/ui.py",
+      "bytes": 6900,
+      "sha256": "890aab9ae318cf01be1c89af40c17ba7e46455484dcde845cd06607f12ab8035"
+    },
+    {
+      "path": "tests/test_app_runtime.py",
+      "bytes": 3275,
+      "sha256": "e2b10ce2e47f6bf4253003a5b58d05f696c3d8099a394cae041af6db92099336"
+    },
+    {
+      "path": "tests/test_imaging.py",
+      "bytes": 1791,
+      "sha256": "c42facbeebb83b7a4c8c08061bed88efd60b214b82e6900faf97273c5e3a0b1f"
+    },
+    {
+      "path": "tests/test_native.py",
+      "bytes": 3031,
+      "sha256": "fa6b4344f4a8ab7b272407b98f45f05b6bb6c3c85c754f9e41072db5b93e53be"
+    },
+    {
+      "path": "tests/test_pipeline.py",
+      "bytes": 2135,
+      "sha256": "fdac753a1e860d8caba2985eb25e5706c83c89f3064a32c453ee9e1ffff7b91f"
+    },
+    {
+      "path": "tests/test_refinement.py",
+      "bytes": 2024,
+      "sha256": "bd8e3639f2dddbce4669d06ccf27e50451e43b84cc5904298de608c06e771e2f"
+    },
+    {
+      "path": "tests/test_timeout.py",
+      "bytes": 1087,
+      "sha256": "ffe58e5f2108aa007f693739fc06e18e0969e308cc567609eb58a02b3d62d004"
+    },
+    {
+      "path": "tests/test_ui_latency.py",
+      "bytes": 1076,
+      "sha256": "d9415321593d002b3e85f6324849fd6a1e1f5922720cedbfd97e7f8378b558b9"
+    }
+  ],
+  "exclusions": [
+    "Raw training datasets and caches",
+    "Virtual environments",
+    "SD boot files and backups",
+    "Temporary rendering output",
+    "Local tool credentials"
+  ],
+  "secret_scan": {
+    "passed": true,
+    "patterns": [
+      "github_token",
+      "private_key",
+      "aws_access_key",
+      "credential_url"
+    ]
+  }
+}

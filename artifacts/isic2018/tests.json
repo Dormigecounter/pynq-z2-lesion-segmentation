@@ -1,0 +1,7 @@
+{
+  "command": ".venv/Scripts/python.exe -m pytest -q -p no:cacheprovider",
+  "passed": 26,
+  "failed": 0,
+  "skipped": 0,
+  "scope": "desktop unit and native C++ reference tests; not board validation"
+}

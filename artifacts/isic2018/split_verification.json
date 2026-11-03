@@ -1,0 +1,6 @@
+{
+  "new_holdouts_unseen_by_legacy": true,
+  "legacy_test_excluded_from_train": true,
+  "unique_ids": true,
+  "pixel_groups_not_split": true
+}

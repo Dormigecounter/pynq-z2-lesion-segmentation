@@ -1,0 +1,14 @@
+{
+  "id": "ISIC_0001186",
+  "model_id": "e71034b765f1de21",
+  "split": "excluded_legacy_test",
+  "policy_frozen_before_check": true,
+  "baseline": {
+    "dice": 0.0,
+    "iou": 0.0
+  },
+  "improved": {
+    "dice": 0.9439014282802458,
+    "iou": 0.8937626217439096
+  }
+}

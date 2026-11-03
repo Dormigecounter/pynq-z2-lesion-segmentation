@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-03",
+  "tracked_files_checked": 252,
+  "bytes": 53953857,
+  "secret_scan_passed": true,
+  "hardware_checksums_passed": true,
+  "starter_kit_file_checksums_passed": true,
+  "tests": {
+    "passed": 26,
+    "failed": 0,
+    "skipped": 0
+  },
+  "largest_file": "artifacts/isic2018/checkpoints/best.pt"
+}

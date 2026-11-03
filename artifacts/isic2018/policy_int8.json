@@ -1,0 +1,15 @@
+{
+  "checkpoint_sha256": "e71034b765f1de21001fa4b66ba8191022647107523db1360a79021fb4705f14",
+  "manifest_sha256": "7e48db6ff634af4e3e980162b4a35a9adc43d9d619ee362ce0d82c5458aa6275",
+  "parameters": {
+    "threshold": 0.6,
+    "opening": false,
+    "closing": false,
+    "largest": false,
+    "fill": true,
+    "refine": true
+  },
+  "selection": "validation: zero Dice count, Dice<0.5 count, then mean original-resolution Dice",
+  "backend": "native-cpp-reference",
+  "limited": false
+}

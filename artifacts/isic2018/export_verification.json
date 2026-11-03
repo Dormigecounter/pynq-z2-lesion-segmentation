@@ -1,0 +1,134 @@
+{
+  "model_id": "e71034b765f1de21",
+  "id": "ISIC_0003582",
+  "layers": [
+    {
+      "tensor": "input",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "e0a",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "e0b",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "p0",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "e1a",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "e1b",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "p1",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "e2a",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "e2b",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "p2",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "e3a",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "e3b",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "u2",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "c2",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "d2a",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "d2b",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "u1",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "c1",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "d1a",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "d1b",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "u0",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "c0",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "d0a",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "d0b",
+      "different_elements": 0,
+      "max_abs": 0
+    },
+    {
+      "tensor": "head",
+      "different_elements": 0,
+      "max_abs": 0
+    }
+  ],
+  "processed_equal": true,
+  "passed": true,
+  "scope": "One validation image, native C++ versus NumPy integer reference; not a board test"
+}

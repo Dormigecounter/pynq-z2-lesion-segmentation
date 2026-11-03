@@ -1,0 +1,22 @@
+* text=auto
+*.py text eol=lf
+*.sh text eol=lf
+*.tcl text eol=lf
+*.sv text eol=lf
+*.v text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.bit -text
+*.hwh -text
+*.bin -text
+*.npz -text
+*.pt -text
+*.png -text
+*.jpg -text
+*.docx -text
+*.zip -text
+artifacts/hardware/** -text
+artifacts/models/** -text
+artifacts/board_start/pynq_start_20261026/** -text
